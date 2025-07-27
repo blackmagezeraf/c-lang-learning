@@ -1,0 +1,33 @@
+[Bb]uild/**
+# Compiled object files
+*.o
+*.obj
+# Compiled dynamic libraries
+*.so
+*.dll
+*.dylib
+# Compiled static libraries
+*.a
+*.lib
+# Executable files
+*.exe
+*.out
+# Debug files
+*.dSYM/
+# Dependency files
+*.d
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+CMakeLists.txt.user
+# Makefiles
+Makefile
+Makefile.in
+# Autotools files
+Makefile.am
+Makefile.in
+# Miscellaneous
+*.log
+*.tmp
+*.bak
+*.swp

@@ -1,0 +1,35 @@
+{
+	"files.associations": {
+		"*.c": "c",
+		"*.h": "c",
+		"*.go": "go",
+		"*.cpp": "cpp",
+		"*.hpp": "cpp",
+		"*.css": "css",
+		"*.xml": "xml",
+		"*.zig": "zig",
+		"*.rs": "rust",
+		"*.odin": "odin",
+		"*.py": "python",
+		"*.html": "html",
+		"*.md": "markdown",
+		".s": "lldb.disassembly",
+		"*.asm": "lldb.disassembly",
+	},
+	// C/C++ settings
+	"C_Cpp.autocompleteAddParentheses": true,
+	"C_Cpp.default.compilerPath": "C:/Users/alihu/scoop/apps/gcc/current/bin",
+	"C_Cpp.default.cStandard": "gnu17",
+	"C_Cpp.default.cppStandard": "gnu++23",
+	"C_Cpp.default.configurationProvider": "",
+	"C_Cpp.default.browse.path": [
+		"${workspace}/**",
+		"${workspace}/src/**",
+		"${workspace}/includes/**"
+	],
+	"C_Cpp.default.includePath": [
+		"${workspace}/src/**",
+		"${workspace}/includes/**",
+		"C:/Users/alihu/scoop/apps/gcc/current/include"
+	]
+}
