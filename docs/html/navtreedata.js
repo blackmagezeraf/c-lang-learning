@@ -25,6 +25,11 @@
 var NAVTREE =
 [
   [ "C Language Learning Project", "index.html", [
+    [ "C Language Learning", "d0/d30/md_README.html", [
+      [ "About Project", "d0/d30/md_README.html#autotoc_md1", [
+        [ "Note! Learning from <a href=\"https://www.youtube.com/playlist?list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe\">YouTube</a>", "d0/d30/md_README.html#autotoc_md2", null ]
+      ] ]
+    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "Globals", "globals.html", [
@@ -37,7 +42,7 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_68267d1309a1af8e8297ef4c3efbcdba.html"
+"d0/d29/main_8c.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';
