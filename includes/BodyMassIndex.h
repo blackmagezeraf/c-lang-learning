@@ -1,6 +1,6 @@
 /**
  * @file BodyMassIndex.h
- * @author Ali Hussain Abid
+ * @author github.com/BlackMageZeraf
  * @brief Calcualte Body Mass Index.
  * @version 1.0
  * @date 2025-07-31
