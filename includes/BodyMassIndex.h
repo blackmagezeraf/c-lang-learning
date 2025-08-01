@@ -1,6 +1,6 @@
 /**
  * @file BodyMassIndex.h
- * @author github.com/BlackMageZeraf
+ * @author https://github.com/blackmagezeraf
  * @brief Calcualte Body Mass Index.
  * @version 1.0
  * @date 2025-07-31

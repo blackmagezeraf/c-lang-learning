@@ -1,6 +1,6 @@
 /**
  * @file ArithmeticOperations.h
- * @author github.com/BlackMageZeraf
+ * @author https://github.com/blackmagezeraf
  * @brief Provies basic Arithmetic functions.
  * @version 1.0
  * @date 2025-07-31

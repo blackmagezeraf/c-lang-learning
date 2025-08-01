@@ -1,6 +1,6 @@
 /**
  * @file Map.h
- * @author github.com/BlackMageZeraf
+ * @author https://github.com/blackmagezeraf
  * @brief Provides Project Specific Mapping Fucntionality. (Not Generic)
  * @version 0.1
  * @date 2025-07-31

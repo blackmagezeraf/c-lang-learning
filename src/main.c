@@ -1,16 +1,18 @@
+/**
+ * @file main.c
+ * @author https://github.com/blackmagezeraf
+ * @brief 
+ * @version 0.1
+ * @date 2025-08-01
+ * 
+ * @copyright Copyright (c) 2025
+ * 
+ */
+
 #include <stdio.h>
 #include "../includes/BodyMassIndex.h"
 #include "../includes/ArithmeticOperations.h"
 
-/**@brief
- *
- * This is a simple C program that demonstrates the use of comments,
- * variable declarations, input/output operations, and basic calculations.
- * It includes a function to calculate BMI based on age, weight, and height.
- * The program uses the C23 language standard version.
- *
- * @author: github.com/BlackMageZeraf
- */
 int main(int argc, char const *argv[])
 {
     // This is a simple single line C comment. This will not be executed.
