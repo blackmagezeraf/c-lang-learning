@@ -19,8 +19,8 @@
 	// C/C++ settings
 	"C_Cpp.autocompleteAddParentheses": true,
 	"C_Cpp.default.compilerPath": "C:/Users/alihu/scoop/apps/gcc/current/bin",
-	"C_Cpp.default.cStandard": "gnu17",
-	"C_Cpp.default.cppStandard": "gnu++23",
+	"C_Cpp.default.cStandard": "c17",
+	"C_Cpp.default.cppStandard": "c++20",
 	"C_Cpp.default.configurationProvider": "",
 	"C_Cpp.default.browse.path": [
 		"${workspace}/**",
@@ -31,5 +31,20 @@
 		"${workspace}/src/**",
 		"${workspace}/includes/**",
 		"C:/Users/alihu/scoop/apps/gcc/current/include"
-	]
+	],
+	"C_Cpp.formatting": "clangFormat",
+	"C_Cpp.autocomplete": "default",
+	"[c]": {
+		"editor.wordBasedSuggestions": "off",
+		"editor.semanticHighlighting.enabled": true,
+		"editor.stickyScroll.defaultModel": "foldingProviderModel",
+		"editor.suggest.insertMode": "replace",
+		"editor.autoClosingBrackets": "always",
+		"editor.autoClosingComments": "always",
+		"editor.autoClosingDelete": "always",
+		"editor.autoClosingOvertype": "always",
+		"editor.autoClosingQuotes": "always",
+		"editor.autoIndent": "full",
+		"editor.autoSurround": "brackets",
+	}
 }
