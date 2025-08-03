@@ -17,24 +17,15 @@
  * @param age The age of the person in years.
  * @param weight The weight of the person in kilograms.
  * @param height The height of the person in centimeters.
+ *
+ * @return returns the calculated BMI
  */
 
 /**
- * @note The height is divided by 100.0f to convert it from centimeters to meters.
+ * @note
+ * The BMI formula is weight divided by the square of height in meters.
+ * The height is divided by 100.0f to convert it from centimeters to meters.
  * This is necessary because BMI is calculated using height in meters.
- */
-
-/**
- * @note The BMI formula is weight divided by the square of height in meters.
  * This is the standard formula used to calculate BMI.
  */
-double CalculateBmiByAge(const int age, const float weight, const int height)
-{
-
-	double heightInMeters = height / 100.0f;
-
-	/**
-	 * @return Returns the Calculated BMI
-	 */
-	return (double)(weight / (heightInMeters * heightInMeters));
-}
+double CalculateBmiByAge(const int age, const float weight, const int height);
